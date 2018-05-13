@@ -1,0 +1,8 @@
+body {color:red;width:80%;}
+header {color:black;}
+h1 {color:blue}
+h3 {color:grey}
+h5 {color:black}
+p {color:black;}
+p.ex1 {color:green; text-transform:capitalize;}
+footer {color:green}
